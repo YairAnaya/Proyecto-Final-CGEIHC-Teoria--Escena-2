@@ -1,0 +1,23 @@
+﻿  ProyectoFinal_Teoria.cpp
+C:\Users\yaira\Downloads\proyecto_final_cg_virus-master\cg_proyecto_final_virus\ProyectoFinal_Teoria.cpp(150,30): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\yaira\Downloads\proyecto_final_cg_virus-master\cg_proyecto_final_virus\ProyectoFinal_Teoria.cpp(563,28): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\yaira\Downloads\proyecto_final_cg_virus-master\cg_proyecto_final_virus\ProyectoFinal_Teoria.cpp(567,29): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\yaira\Downloads\proyecto_final_cg_virus-master\cg_proyecto_final_virus\ProyectoFinal_Teoria.cpp(571,29): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\yaira\Downloads\proyecto_final_cg_virus-master\cg_proyecto_final_virus\ProyectoFinal_Teoria.cpp(586,28): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\yaira\Downloads\proyecto_final_cg_virus-master\cg_proyecto_final_virus\ProyectoFinal_Teoria.cpp(590,29): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\yaira\Downloads\proyecto_final_cg_virus-master\cg_proyecto_final_virus\ProyectoFinal_Teoria.cpp(594,29): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\yaira\Downloads\proyecto_final_cg_virus-master\cg_proyecto_final_virus\ProyectoFinal_Teoria.cpp(605,28): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\yaira\Downloads\proyecto_final_cg_virus-master\cg_proyecto_final_virus\ProyectoFinal_Teoria.cpp(609,29): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\yaira\Downloads\proyecto_final_cg_virus-master\cg_proyecto_final_virus\ProyectoFinal_Teoria.cpp(613,29): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\yaira\Downloads\proyecto_final_cg_virus-master\cg_proyecto_final_virus\ProyectoFinal_Teoria.cpp(626,23): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\yaira\Downloads\proyecto_final_cg_virus-master\cg_proyecto_final_virus\ProyectoFinal_Teoria.cpp(630,23): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\yaira\Downloads\proyecto_final_cg_virus-master\cg_proyecto_final_virus\ProyectoFinal_Teoria.cpp(634,23): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\yaira\Downloads\proyecto_final_cg_virus-master\cg_proyecto_final_virus\ProyectoFinal_Teoria.cpp(643,25): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\yaira\Downloads\proyecto_final_cg_virus-master\cg_proyecto_final_virus\ProyectoFinal_Teoria.cpp(658,25): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\yaira\Downloads\proyecto_final_cg_virus-master\cg_proyecto_final_virus\ProyectoFinal_Teoria.cpp(675,17): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\yaira\Downloads\proyecto_final_cg_virus-master\cg_proyecto_final_virus\ProyectoFinal_Teoria.cpp(676,17): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\yaira\Downloads\proyecto_final_cg_virus-master\cg_proyecto_final_virus\ProyectoFinal_Teoria.cpp(680,21): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\yaira\Downloads\proyecto_final_cg_virus-master\cg_proyecto_final_virus\ProyectoFinal_Teoria.cpp(681,21): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\yaira\Downloads\proyecto_final_cg_virus-master\cg_proyecto_final_virus\ProyectoFinal_Teoria.cpp(683,13): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\yaira\Downloads\proyecto_final_cg_virus-master\cg_proyecto_final_virus\ProyectoFinal_Teoria.cpp(684,13): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  cg_proyecto_final_virus.vcxproj -> C:\Users\yaira\Downloads\proyecto_final_cg_virus-master\Debug\cg_proyecto_final_virus.exe
